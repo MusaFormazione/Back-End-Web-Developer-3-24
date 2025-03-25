@@ -4,4 +4,4 @@ Questa cartella contiene comandi fondamentali, script di esempio, dump di databa
 
 ### Indice:
 
-- [Il database Sakila](./mysql/databaseSakila)
+- [Il database Sakila](./databaseSakila)
