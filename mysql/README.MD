@@ -4,4 +4,5 @@ Questa cartella contiene comandi fondamentali, script di esempio, dump di databa
 
 ### Indice:
 
-- [Il database Sakila](./databaseSakila)
+- [Esportare il database Sakila](./dumpDatabaseSakila)
+- [Importare il database Sakila](./restoreDatabaseSakila)
