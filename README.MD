@@ -15,7 +15,6 @@ Il corso è strutturato in **3 moduli principali**:
 
 1. [🗃️ MySQL](./mysql)  
    Comandi fondamentali, script di esempio, dump di database e query SQL complesse.
-   - [Restore del database Sakila](./mysql/databaseSakila)
 
 2. [🐘 PHP](./php)  
    Script PHP base e avanzati, esempi di gestione input/output, sessioni, l'esercitazione della rubrica.
