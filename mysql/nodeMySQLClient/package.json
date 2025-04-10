@@ -1,0 +1,16 @@
+{
+  "name": "nodeapp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev_user1": "node index.js user1 password1",
+    "dev_user2": "node index.js user2 password2"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "mysql2": "^3.14.0"
+  },
+  "type": "module"
+}

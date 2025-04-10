@@ -7,3 +7,4 @@ Questa cartella contiene comandi fondamentali, script di esempio, dump di databa
 - [Configurare_PHPMYADMIN_su_macos](./macosPHPMYADMIN)
 - [Esportare il database Sakila](./dumpDatabaseSakila)
 - [Importare il database Sakila](./restoreDatabaseSakila)
+- [Un client per MySQL in NodeJS](./nodeMySQLClient)
