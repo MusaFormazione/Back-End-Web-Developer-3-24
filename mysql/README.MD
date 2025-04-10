@@ -8,6 +8,5 @@ Questa cartella contiene comandi fondamentali, script di esempio, dump di databa
 - [Esportare il database Sakila](./dumpDatabaseSakila)
 - [Importare il database Sakila](./restoreDatabaseSakila)
 - [Un client per MySQL in NodeJS](./nodeMySQLClient)
-- [Un client per MySQL in NodeJS](./nodeMySQLClient)
 - [utentiRuoliPermission](./utentiRuoliPermission)
 - [sqlModes](./sqlModes)
