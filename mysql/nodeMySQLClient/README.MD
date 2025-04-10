@@ -12,7 +12,7 @@ Una semplice applicazione Node.js che utilizza MySQL come database.
 Clona il repository e installa le dipendenze:
 
 ```bash
-git clone <repo-url>
+git clone <repo-url> # clona tutto il repository
 cd mysql/nodeMySQLClient
 npm install
 ```
