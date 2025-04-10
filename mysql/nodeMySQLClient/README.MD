@@ -13,7 +13,7 @@ Clona il repository e installa le dipendenze:
 
 ```bash
 git clone <repo-url>
-cd nodeapp
+cd mysql/nodeMySQLClient
 npm install
 ```
 ## 📦 Uso
