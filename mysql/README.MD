@@ -10,3 +10,7 @@ Questa cartella contiene comandi fondamentali, script di esempio, dump di databa
 - [Un client per MySQL in NodeJS](./nodeMySQLClient)
 - [utentiRuoliPermission](./utentiRuoliPermission)
 - [sqlModes](./sqlModes)
+- [progettazioneDB1_modificaSAKILA](./progettazioneDB1_modificaSAKILA)
+- [progettazioneDB2_progettazioneDiversiSistemi](./progettazioneDB2_progettazioneDiversiSistemi)
+- [linguaggioDDL](./linguaggioDDL)
+- [linguaggioDDL_unique](./DDL_unique)
