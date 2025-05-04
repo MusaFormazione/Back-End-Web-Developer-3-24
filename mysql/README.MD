@@ -14,3 +14,4 @@ Questa cartella contiene comandi fondamentali, script di esempio, dump di databa
 - [progettazioneDB2_progettazioneDiversiSistemi](./progettazioneDB2_progettazioneDiversiSistemi)
 - [linguaggioDDL](./linguaggioDDL)
 - [linguaggioDDL_unique](./DDL_unique)
+- [linguaggioDDL_DBNoleggioVeicoli](./DDL_DBNoleggioVeicoli)
