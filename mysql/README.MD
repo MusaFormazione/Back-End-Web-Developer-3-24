@@ -15,3 +15,5 @@ Questa cartella contiene comandi fondamentali, script di esempio, dump di databa
 - [linguaggioDDL](./linguaggioDDL)
 - [linguaggioDDL_unique](./DDL_unique)
 - [linguaggioDDL_DBNoleggioVeicoli](./DDL_DBNoleggioVeicoli)
+- [DML_OperatoriBooleani](./DML_OperatoriBooleani)
+- [DML_UtilizzoLike](./DML_UtilizzoLike)
