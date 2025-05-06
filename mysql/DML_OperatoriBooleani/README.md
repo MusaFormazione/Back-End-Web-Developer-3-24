@@ -71,7 +71,7 @@ WHERE store_id = 1 AND (first_name = 'MARY' OR last_name = 'SMITH');
 
 ---
 
-## 🧩 Esercizio 1 — da svolgere insieme (con soluzione)
+## 🧩 Esercizio 1 — con soluzione
 
 **Obiettivo**: Trovare tutti i clienti (`customer`) del negozio 1 che si chiamano `MARY` **oppure** si chiamano `SMITH`.
 
