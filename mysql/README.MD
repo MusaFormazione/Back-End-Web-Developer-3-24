@@ -21,3 +21,5 @@ Questa cartella contiene comandi fondamentali, script di esempio, dump di databa
 - [DML_Aggregazione (Group By)](./DML_Aggregazione)
 - [DML_Alias](./DML_Alias)
 - [DML_UsoDelleFunzioniNelleSelect](./DML_UsoDelleFunzioniNelleSelect)
+- [DML_UNION](./DML_UNION)
+- [DML_JOIN](./DML_JOIN)
