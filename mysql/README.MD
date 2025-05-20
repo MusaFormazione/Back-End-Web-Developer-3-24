@@ -15,7 +15,7 @@ Questa cartella contiene comandi fondamentali, script di esempio, dump di databa
 - [DDL_Introduzione](./linguaggioDDL)
 - [DDL_Vincolo_Unique](./DDL_unique)
 - [DDL_DB_NoleggioVeicoli](./DDL_DBNoleggioVeicoli)
-- [DDL_ModificareTabelle](./DDL_ModificareTabelle)
+- [DDL_ModificareDatabase](./DDL_ModificareDatabase)
 - [DML_OperatoriBooleani](./DML_OperatoriBooleani)
 - [DML_LimitareRisultati](./DML_LimitareRisultati)
 - [DML_OrderBy](./DML_OrderBy)
