@@ -7,51 +7,51 @@ Questa cartella contiene comandi fondamentali, script di esempio, dump di databa
 
 ## 📦 Setup E Strumenti
 
-- [Configurare PhpMyAdmin Su MacOS](./macosPHPMYADMIN)
-- [Un Client Per MySQL In NodeJS](./nodeMySQLClient)
+- [Configurare PhpMyAdmin Su MacOS](./documentazione/macosPHPMYADMIN)
+- [Un Client Per MySQL In NodeJS](././documentazione/nodeMySQLClient)
 
 ---
 
 ## 🗄️ Import/Export Database
 
-- [Esportare Il Database Sakila](./dumpDatabaseSakila)
-- [Importare Il Database Sakila](./restoreDatabaseSakila)
+- [Esportare Il Database Sakila](./documentazione/dumpDatabaseSakila)
+- [Importare Il Database Sakila](./documentazione/restoreDatabaseSakila)
 
 ---
 
 ## 🧱 Progettazione Database
 
-- [Progettazione: Modifica Al Modello Sakila](./progettazioneDB1_modificaSAKILA)
-- [Progettazione: Diversi Sistemi Informativi](./progettazioneDB2_progettazioneDiversiSistemi)
-- [Vincoli E Gestione Utenti/Ruoli/Permission](./utentiRuoliPermission)
+- [Progettazione: Modifica Al Modello Sakila](./documentazione/progettazioneDB1_modificaSAKILA)
+- [Progettazione: Diversi Sistemi Informativi](./documentazione/progettazioneDB2_progettazioneDiversiSistemi)
+- [Vincoli E Gestione Utenti/Ruoli/Permission](./documentazione/utentiRuoliPermission)
 
 ---
 
 ## 🔧 DDL – Data Definition Language
 
-- [Introduzione Al DDL](./linguaggioDDL)
-- [Vincolo UNIQUE](./DDL_unique)
-- [DDL – Noleggio Veicoli (Esercizio)](./DDL_DBNoleggioVeicoli)
-- [Modificare Tabelle E Database](./DDL_ModificareDatabase)
+- [Introduzione Al DDL](./documentazione/linguaggioDDL)
+- [Vincolo UNIQUE](./documentazione/DDL_unique)
+- [DDL – Noleggio Veicoli (Esercizio)](./documentazione/DDL_DBNoleggioVeicoli)
+- [Modificare Tabelle E Database](./documentazione/DDL_ModificareDatabase)
 
 ---
 
 ## ✍️ DML – Data Manipulation Language
 
-- [Operatori Booleani](./DML_OperatoriBooleani)
-- [Limitare I Risultati (`LIMIT`)](./DML_LimitareRisultati)
-- [Ordinamento Con `ORDER BY`](./DML_OrderBy)
-- [Alias Di Colonna E Tabella](./DML_Alias)
-- [Funzioni Nelle `SELECT`](./DML_UsoDelleFunzioniNelleSelect)
-- [Aggregazioni E `GROUP BY`](./DML_Aggregazione)
-- [Uso Di `UNION`](./DML_UNION)
-- [Join Tra Tabelle (`INNER`, `LEFT`...)](./DML_JOIN)
-- [Query Ottimizzate E Performance](./DML_OttimizzaQuery)
-- [Tabelle Temporanee](./DML_TabellaTemporanea)
-- [Viste (View)](./DML_Viste)
+- [Operatori Booleani](./documentazione/DML_OperatoriBooleani)
+- [Limitare I Risultati (`LIMIT`)](./documentazione/DML_LimitareRisultati)
+- [Ordinamento Con `ORDER BY`](./documentazione/DML_OrderBy)
+- [Alias Di Colonna E Tabella](./documentazione/DML_Alias)
+- [Funzioni Nelle `SELECT`](./documentazione/DML_UsoDelleFunzioniNelleSelect)
+- [Aggregazioni E `GROUP BY`](./documentazione/DML_Aggregazione)
+- [Uso Di `UNION`](./documentazione/DML_UNION)
+- [Join Tra Tabelle (`INNER`, `LEFT`...)](./documentazione/DML_JOIN)
+- [Query Ottimizzate E Performance](./documentazione/DML_OttimizzaQuery)
+- [Tabelle Temporanee](./documentazione/DML_TabellaTemporanea)
+- [Viste (View)](./documentazione/DML_Viste)
 
 ---
 
 ## ⚙️ Altri Temi
 
-- [SqlModes (Modalità SQL Speciali)](./sqlModes)
+- [SqlModes (Modalità SQL Speciali)](./documentazione/sqlModes)
