@@ -24,3 +24,5 @@ Questa cartella contiene comandi fondamentali, script di esempio, dump di databa
 - [DML_UsoDelleFunzioniNelleSelect](./DML_UsoDelleFunzioniNelleSelect)
 - [DML_UNION](./DML_UNION)
 - [DML_JOIN](./DML_JOIN)
+- [DML_OttimizzaQuery](./DML_OttimizzaQuery)
+- [DML_TabellaTemporanea](./DML_TabellaTemporanea)
