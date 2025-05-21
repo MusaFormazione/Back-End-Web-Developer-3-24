@@ -51,9 +51,15 @@ ORDER BY
 LIMIT 1;
 ```
 
+#### 4 - Esecuzione di Visual Explain (con MySQL WorkBench)
 
+Riporta la query sopra presentata (senza `EXPLAIN`) e premi il pulsante con il fulmine e la lente: 
 
-#### 4 - Aggiungiamo INDICI O CHIAVI alle tabelle
+![img_1.png](img_1.png)
+
+Viene in seguito rappresentato il piano di esecuzione della query, e per ciascuno step, in maniera visuale, lo strumento ci mostra il livello di performance.
+
+#### 5 - Aggiungiamo INDICI O CHIAVI alle tabelle
 
 ```sql
 
