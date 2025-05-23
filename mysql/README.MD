@@ -55,3 +55,7 @@ Questa cartella contiene comandi fondamentali, script di esempio, dump di databa
 ## ⚙️ Altri Temi
 
 - [SqlModes (Modalità SQL Speciali)](./documentazione/sqlModes)
+- [Functions](./documentazione/MySQL_Functions)
+- [Stored Programs](./documentazione/StoredPrograms)
+- [Delimiter](./documentazione/Delimiter)
+- [Triggers](./documentazione/Trigger)
