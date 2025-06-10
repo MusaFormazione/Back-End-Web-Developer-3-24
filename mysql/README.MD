@@ -38,6 +38,7 @@ Questa cartella contiene comandi fondamentali, script di esempio, dump di databa
 
 ## ✍️ DML – Data Manipulation Language
 
+- [Query Base](./documentazione/DDL_Query/README.MD)
 - [Operatori Booleani](./documentazione/DML_OperatoriBooleani)
 - [Limitare I Risultati (`LIMIT`)](./documentazione/DML_LimitareRisultati)
 - [Ordinamento Con `ORDER BY`](./documentazione/DML_OrderBy)
