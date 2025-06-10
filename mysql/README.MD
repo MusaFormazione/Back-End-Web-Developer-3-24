@@ -53,6 +53,14 @@ Questa cartella contiene comandi fondamentali, script di esempio, dump di databa
 
 ---
 
+## 📋 Esercitazioni
+
+- [Esercizi sulle Query 1](./documentazione/DML_EserciziQuery_1/README.MD)
+- [Esercizi sulle Query 2](./documentazione/DML_EserciziQuery_2/README.MD)
+- [Esercizi sulle Query 3](./documentazione/DML_EserciziQuery_3/README.md)
+
+---
+
 ## ⚙️ Altri Temi
 
 - [SqlModes (Modalità SQL Speciali)](./documentazione/sqlModes)
