@@ -1,0 +1,16 @@
+version: '3.8'
+services:
+  check-from-compose:
+    build: .
+    ports:
+      - "80:80"
+    volumes:
+      - "./:/var/www/html"
+  second-stuff:
+    build: .
+    ports:
+      - "85:80"
+    volumes:
+      - "./:/var/www/html"
+  database:
+    image: "mysql/mysql"
