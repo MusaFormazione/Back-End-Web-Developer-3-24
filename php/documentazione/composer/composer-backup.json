@@ -1,0 +1,18 @@
+{
+    "name": "abruno/composer_sample_live",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Antonio Bruno",
+            "email": "antonio8101@gmail.com"
+        }
+    ],
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^12.2"
+    }
+}
