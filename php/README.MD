@@ -12,5 +12,6 @@ Questa cartella contiene guide, configurazioni e script di esempio per PHP e il 
 - [Docker-Compose (Dockerfile)](./documentazione/docker_compose)
 - [Composer (Esercitazione)](./documentazione/composer)
 - [Basi PHP](./documentazione/basi_php)
-- [Esercizi Basi PHP](./documentazione/basi_php/esercitazioni)
-- [Funzioni PHP](./documentazione/funzioni)
+- [Esercizi Base](./documentazione/basi_php/esercitazioni)
+- [Funzioni](./documentazione/funzioni)
+- [Oggetti](./documentazione/oggetti)
