@@ -13,3 +13,4 @@ Questa cartella contiene guide, configurazioni e script di esempio per PHP e il 
 - [Composer (Esercitazione)](./documentazione/composer)
 - [Basi PHP](./documentazione/basi_php)
 - [Esercizi Basi PHP](./documentazione/basi_php/esercitazioni)
+- [Funzioni PHP](./documentazione/funzioni)
