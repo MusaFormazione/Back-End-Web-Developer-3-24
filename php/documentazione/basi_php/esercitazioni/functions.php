@@ -53,8 +53,8 @@ function myFunc2(string $p1){
 $var = "string";
 $var = null;
 
-echo myFunc2();
-echo myFunc2($var);
+myFunc2($var);
+echo myFunc20($var);
 
 
 // rigida
@@ -70,31 +70,31 @@ function myFunc4(?string $p1) : ?string{
 myFunc4("dd");
 
 // flessibile (2) - string or null
-function myFunc2(string | null $p1): string | null{
+function myFunc20(string | null $p1): string | null{
 	return $p1;
 }
 
 
 
 // flessibile (3) - string or int
-function myFunc2(string | int $p1): string | int{
+function myFunc21(string | int $p1): string | int{
 	return $p1;
 }
 
 // flessibile(4) - string or int or bool
-function myFunc2(string | int | bool $p1): string | int | bool{
+function myFunc22(string | int | bool $p1): string | int | bool{
 	return $p1;
 }
 // UNION TYPE TypeScript
 
 
 // flessibile(5) - qualunque tipo
-function myFunc2(mixed $p1): mixed{ // any
+function myFunc23(mixed $p1): mixed{ // any
 	return $p1;
 }
 
 // flessibile(6) - equivale al mixed
-function myFunc2($p1){
+function myFunc24($p1){
 
 }
 
