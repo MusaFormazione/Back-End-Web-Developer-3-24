@@ -1,11 +1,37 @@
 <?php
 
+interface AbstractMath {
+
+	public function abs(int|float $number):int|float;
+
+}
+
 /** CLASSE - TIMBRO VS ISTANZA - OGGETTO - TIMBRATURA */
-class Math {
+class Math implements ICalcuateAbs {
+
+	public static float $myStaticValue = 10;
+
+	public static function acos(float $num): float{
+		return acos($num);
+	}
+
+	public static function tan(float $num): float{
+		return self::internalTan($num);
+		return Math::internalTan($num);
+	}
+
+	private static function internalTan(float $num): float{
+		return tan($num);
+	}
 
 	protected bool $absCalled = false;
 
 	public function abs(int|float $number):int|float{
+
+		//return self::internalTan($number);
+
+		// dot notation (.)
+		// arrow notation (->)
 		return $this->internalAbs($number);
 	}
 
@@ -59,12 +85,18 @@ class MyMath extends Math{
 // Antonio code
 $math = new MyMath(); // istanza - oggetto
 
+
+
 $result = $math->abs(-20);
 $ceilResult = $math->ceil(5.4);
 $lastResult = $math->getLastAbsNumber();
 
 // Irene code
 $math1 = new Math(); // istanza - oggetto
+
+echo Math::$myStaticValue;
+echo Math::acos(20);
+echo Math::tan(20);
 
 $lastResult = $math1->getLastAbsNumber(); // null
 $math1->setLastAbsNumber(is_null($lastResult) ? 22 : $lastResult);
