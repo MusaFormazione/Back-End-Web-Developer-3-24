@@ -21,4 +21,4 @@ Questa cartella contiene guide, configurazioni e script di esempio per PHP e il 
 - [Oggetti_Classi_Astratte](./documentazione/oggetti-abstract)
 - [Oggetti_Serializzazione](./documentazione/oggetti-serializzazione)
 - [Oggetti_Clonazione](./documentazione/oggetti-clonazione)
-- [Web/Sessioni/Cookie/Database](./documentazione/web)
+- [Progetto Web/Sessioni/Cookie/Database](./documentazione/web)
