@@ -19,3 +19,5 @@ Questa cartella contiene guide, configurazioni e script di esempio per PHP e il 
 - [Oggetti_Interfacce](./documentazione/oggetti-interfacce)
 - [Oggetti_Traits](./documentazione/oggetti-traits)
 - [Oggetti_Classi_Astratte](./documentazione/oggetti-abstract)
+- [Oggetti_Serializzazione](./documentazione/oggetti-serializzazione)
+- [Oggetti_Clonazione](./documentazione/oggetti-clonazione)
