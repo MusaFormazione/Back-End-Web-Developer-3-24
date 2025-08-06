@@ -18,4 +18,4 @@ Questa cartella contiene guide, configurazioni e script di esempio per PHP e il 
 - [Oggetti_Esercizi](./documentazione/oggetti-esercizi)
 - [Oggetti_Interfacce](./documentazione/oggetti-interfacce)
 - [Oggetti_Traits](./documentazione/oggetti-traits)
-- [Oggetti_Classi_Astratte](./documentazione/oggetti-last)
+- [Oggetti_Classi_Astratte](./documentazione/oggetti-abstract)
