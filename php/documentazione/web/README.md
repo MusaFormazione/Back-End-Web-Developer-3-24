@@ -18,7 +18,6 @@ L'applicazione è containerizzata utilizzando Docker e Docker Compose per facili
 
 ```
 web-e-db/
-├── .idea/                  # Configurazione IDE
 ├── tmp/                    # Directory temporanea per PHP
 │   ├── php/                # File temporanei PHP
 │   └── sessions/           # File di sessione PHP
