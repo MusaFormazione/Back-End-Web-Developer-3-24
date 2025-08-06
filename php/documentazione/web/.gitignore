@@ -1,0 +1,7 @@
+# Ignore contents of uploads directory
+uploads/*
+!uploads/.gitkeep
+
+# Ignore contents of tmp directory
+tmp/*
+!tmp/.gitkeep

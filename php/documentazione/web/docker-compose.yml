@@ -1,0 +1,10 @@
+version: '3.8'
+services:
+  main-service:
+    build: .
+    ports:
+      - "80:80"
+    volumes:
+      - "./:/var/www/html"
+      - "./tmp/php:/var/www/tmp"
+      - "./tmp/sessions:/var/www/session-tmp"
