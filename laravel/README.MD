@@ -1,6 +1,6 @@
 # 🧱 Laravel 12
 
-Questa sezione raccoglie il materiale del corso su Laravel 12, organizzato in sotto-cartelle tematiche con appunti, esempi (basati su Sakila, più una esercitazione che sfrutta un servizio di Trading) ed esercizi pratici.
+Questa sezione raccoglie il materiale del corso su Laravel 12, organizzato in sotto-cartelle tematiche con appunti, esempi basati su Sakila, (più una esercitazione che sfrutta un servizio di Trading) ed altri esercizi pratici.
 
 ## 📚 Indice:
 
