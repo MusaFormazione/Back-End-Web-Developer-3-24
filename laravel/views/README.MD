@@ -1,22 +1,15 @@
-# Views in Laravel 12 — Indice modulare (Sakila)
+# Views
 
-Questa sezione raccoglie appunti pratici sulle View di Laravel 12, organizzati in moduli brevi, sul modello usato per routing e service container. Ogni cartella contiene:
-- Appunti sintetici in italiano
-- Esempi basati sul database Sakila
-- Esercizi per i partecipanti
-
-Indice moduli:
-- 01-mvc-pattern — pattern Model/View/Controller applicato a Laravel
-- 02-view-helper-and-facade — helper view(), Facade View e namespacing delle view
-- 03-nested-views — layout, partials e viste annidate
-- 04-view-first-and-exists — View::first(), View::exists() e fallback
-- 05-passing-data-to-views — passare dati alle view (array, compact, with)
-- 06-view-share — condivisione dati globali (View::share, view composers)
-- 07-view-optimization — cache/compilazione Blade, view:cache, view:clear
-- 08-blade-basics — basi di Blade: layout, section, yield, include, componenti
-- 09-blade-escape-and-js-collisions — escape, raw HTML, collisioni con framework JS
-- 10-blade-directives-main — principali direttive Blade (if, foreach, csrf, auth, etc.)
-- 11-forms — costruire form, validazione, old(), errori, upload (con esempi Sakila)
-- 12-vite — informazioni generali su Vite e integrazione con @vite
-
-Suggerimento: consulta anche la panoramica in `../README.MD`. 
+- [01-mvc-pattern](./01-mvc-pattern/README.MD)
+- [02-view-helper-and-facade](./02-view-helper-and-facade/README.MD)
+- [03-nested-views](./03-nested-views/README.MD)
+- [04-view-first-and-exists](./04-view-first-and-exists/README.MD)
+- [05-passing-data-to-views](./05-passing-data-to-views/README.MD)
+- [06-view-share](./06-view-share/README.MD)
+- [07-view-optimization](./07-view-optimization/README.MD)
+- [08-blade-basics](./08-blade-basics/README.MD)
+- [09-blade-escape-and-js-collisions](./09-blade-escape-and-js-collisions/README.MD)
+- [10-blade-directives-main](./10-blade-directives-main/README.MD)
+- [11-esercizio-view-trading-finance-info](./11-esercizio-view-trading-finance-info/README.MD)
+- [11-forms](./11-forms/README.MD)
+- [12-vite](./12-vite/README.MD)

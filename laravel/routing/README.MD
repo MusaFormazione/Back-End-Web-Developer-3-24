@@ -1,28 +1,14 @@
-# Routing in Laravel 12 — Indice modulare (Sakila)
+# Routing
 
-Questa sezione organizza gli appunti sul routing in cartelle tematiche, sul modello utilizzato in PHP. Ogni cartella contiene:
-- Appunti sintetici in italiano
-- Esempi basati sul database Sakila
-- Esercizi per i partecipanti
-
-Suggerimento: puoi anche consultare la panoramica completa in `../README.MD`.
-
-Indice degli argomenti:
-- 01-base
-- 02-web-vs-api
-- 03-route-methods
-- 04-redirects
-- 05-artisan-route-commands
-- 06-route-parameters
-- 07-named-routes
-- 08-route-groups
-- 09-route-model-binding
-- 10-route-info
-- 11-cors
-- 12-route-caching
-
-Struttura consigliata per lo studio:
-1) Leggi 01-base e 02-web-vs-api per capire il contesto.
-2) Passa a 03–08 per coprire gli aspetti operativi più usati nello sviluppo.
-3) Approfondisci con 09 e 10.
-4) Chiudi con 11–12 per argomenti di produzione.
+- [01-base](./01-base/README.MD)
+- [02-web-vs-api](./02-web-vs-api/README.MD)
+- [03-route-methods](./03-route-methods/README.MD)
+- [04-redirects](./04-redirects/README.MD)
+- [05-artisan-route-commands](./05-artisan-route-commands/README.MD)
+- [06-route-parameters](./06-route-parameters/README.MD)
+- [07-named-routes](./07-named-routes/README.MD)
+- [08-route-groups](./08-route-groups/README.MD)
+- [09-route-model-binding](./09-route-model-binding/README.MD)
+- [10-route-info](./10-route-info/README.MD)
+- [11-cors](./11-cors/README.MD)
+- [12-route-caching](./12-route-caching/README.MD)
